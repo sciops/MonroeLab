@@ -1,0 +1,8 @@
+SERIALNO:ff0154d4b792d4d69c62219f10
+OPERATOR:ffffff
+GPS LOCX:ffffff
+GPS LOCY:ffffff
+GPS HEAD:ff
+BCIIDENT:1887271c-ed5d-4c31-971e-aefcb8d83762
+BCIPASS1:adafretvert
+BCIPASS2:september
